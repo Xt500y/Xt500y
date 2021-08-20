@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @Xt500y
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Xt500y/Xt500y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <?php
 ob_start();
 $API_KEY = "1972891280:AAF_Ho3luc7nEmcG_hpuNrGQsHy7NQnRQQw";#توكنك
@@ -7904,5 +7895,5 @@ if ($status !=  creator  && $status !=  administrator  && !in_array($from_id,$De
     'chat_id'=>$chat_id,
     'text'=>"
 📛 ¦ لايمكنني اللعب معك بامر من المنشئ ☹��
-@t_i11x
+
 
